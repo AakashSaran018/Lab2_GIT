@@ -1,0 +1,24 @@
+ Pull Request Details
+
+Repository:
+ga-ananth/cs602-lab2-git-practice
+
+My Fork:
+AakashSaran018/cs602-lab2-git-practice
+
+Pull Request:
+#31 - Add hobby and update shared hobby
+
+Base:
+ga-ananth:main
+
+Head:
+AakashSaran018:main
+
+Status:
+Open
+
+Changes:
+- Added Gaming as a hobby
+- Added AakashSaranV_CS26MT018 to Chess
+- Reordered hobbies according to the number of people sharing them

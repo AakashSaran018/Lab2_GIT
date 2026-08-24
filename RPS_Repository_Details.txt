@@ -1,0 +1,32 @@
+Rock Paper Scissors Game
+
+Repository Name:
+CS26MT018_RPS_game
+
+GitHub Account:
+AakashSaran018
+
+Main Branch:
+main
+
+Feature Branch:
+no-ties
+
+Features:
+- Rock Paper Scissors game
+- Computer makes random selections
+- Score tracking
+- First player to reach 5 wins
+- Tie rematch feature
+
+Git Features Demonstrated:
+- Repository initialization
+- Commits
+- Branching
+- Interactive rebase
+- Squashing commits
+- Fast-forward merge
+- git merge --ff-only
+
+Final no-ties commit:
+971c300 - Added a logic for the tie case
